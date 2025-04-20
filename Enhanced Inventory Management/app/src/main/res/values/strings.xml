@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProjectThree</string>
+    <string name="sort_prompt">Select sorting option</string>
+    <string name="order_prompt">Ascending/Descending</string>
+</resources>

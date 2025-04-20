@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "200138733976",
+    "project_id": "cs499enhancement",
+    "storage_bucket": "cs499enhancement.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200138733976:android:9b649fc97ca34d80af13ed",
+        "android_client_info": {
+          "package_name": "com.example.projectthree"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSRWKlGHAstIJJRRDIGpGh1WI528QXIRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

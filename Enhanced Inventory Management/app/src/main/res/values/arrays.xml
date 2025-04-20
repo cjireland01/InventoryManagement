@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sort_criteria_array">
+        <item>Sort by Name</item>
+        <item>Sort by Quantity</item>
+        <item>Sort by Date</item>
+    </string-array>
+
+    <string-array name="sort_order_array">
+        <item>Ascending</item>
+        <item>Descending</item>
+    </string-array>
+
+</resources>
